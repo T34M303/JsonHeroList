@@ -1,194 +1,527 @@
 [
   {
-    "Hero": "Saber"
+    "image": "",
+    "name": "Akai",
+    "type": "skin"
   },
   {
-    "Hero": "Benedetta"
+    "image": "",
+    "name": "Aldous",
+    "type": "skin"
   },
   {
-    "Hero": "Ling"
+    "image": "",
+    "name": "Alice",
+    "type": "skin"
   },
   {
-    "Hero": "Helcurt"
+    "image": "",
+    "name": "Alpha",
+    "type": "skin"
   },
   {
-    "Hero": "Hanzo"
+    "image": "",
+    "name": "Alucard",
+    "type": "skin"
   },
   {
-    "Hero": "Natalia"
+    "image": "",
+    "name": "Angela",
+    "type": "skin"
   },
   {
-    "Hero": "Fanny"
+    "image": "",
+    "name": "Argus",
+    "type": "skin"
   },
   {
-    "Hero": "Hayabusa"
+    "image": "",
+    "name": "Atlas",
+    "type": "skin"
   },
   {
-    "Hero": "Lancelot"
+    "image": "",
+    "name": "Aurora",
+    "type": "skin"
   },
   {
-    "Hero": "Selena"
+    "image": "",
+    "name": "Badang",
+    "type": "skin"
   },
   {
-    "Hero": "Gusion"
+    "image": "",
+    "name": "Balmond",
+    "type": "skin"
   },
   {
-    "Hero": "Aldous"
+    "image": "",
+    "name": "Bane",
+    "type": "skin"
   },
   {
-    "Hero": "Chou"
+    "image": "",
+    "name": "Barats",
+    "type": "skin"
   },
   {
-    "Hero": "Dyrroth"
+    "image": "",
+    "name": "Baxia",
+    "type": "skin"
   },
   {
-    "Hero": "Hilda"
+    "image": "",
+    "name": "Beatrix",
+    "type": "skin"
   },
   {
-    "Hero": "Ruby"
+    "image": "",
+    "name": "Belerick",
+    "type": "skin"
   },
   {
-    "Hero": "Silvanna"
+    "image": "",
+    "name": "Benedetta",
+    "type": "skin"
   },
   {
-    "Hero": "X.Borg"
+    "image": "",
+    "name": "Brody",
+    "type": "skin"
   },
   {
-    "Hero": "Guinevere"
+    "image": "",
+    "name": "Bruno",
+    "type": "skin"
   },
   {
-    "Hero": "Badang"
+    "image": "",
+    "name": "Carmilla",
+    "type": "skin"
   },
   {
-    "Hero": "Martis"
+    "image": "",
+    "name": "Cecilion",
+    "type": "skin"
   },
   {
-    "Hero": "Thamuz"
+    "image": "",
+    "name": "Chang\u0027e",
+    "type": "skin"
   },
   {
-    "Hero": "Yu Zhong"
+    "image": "",
+    "name": "Chou",
+    "type": "skin"
   },
   {
-    "Hero": "Paquito"
+    "image": "",
+    "name": "Claude",
+    "type": "skin"
   },
   {
-    "Hero": "Roger"
+    "image": "",
+    "name": "Clint",
+    "type": "skin"
   },
   {
-    "Hero": "Alice"
+    "image": "",
+    "name": "Cyclops",
+    "type": "skin"
   },
   {
-    "Hero": "Cecilion"
+    "image": "",
+    "name": "Diggie",
+    "type": "skin"
   },
   {
-    "Hero": "Vale"
+    "image": "",
+    "name": "Dyrroth",
+    "type": "skin"
   },
   {
-    "Hero": "Chang\u0027e"
+    "image": "",
+    "name": "Esmeralda",
+    "type": "skin"
   },
   {
-    "Hero": "Esmeralda"
+    "image": "",
+    "name": "Estes",
+    "type": "skin"
   },
   {
-    "Hero": "Harith"
+    "image": "",
+    "name": "Eudora",
+    "type": "skin"
   },
   {
-    "Hero": "Zhask"
+    "image": "",
+    "name": "Fanny",
+    "type": "skin"
   },
   {
-    "Hero": "Pharsa"
+    "image": "",
+    "name": "Faramis",
+    "type": "skin"
   },
   {
-    "Hero": "Lunox"
+    "image": "",
+    "name": "Franco",
+    "type": "skin"
   },
   {
-    "Hero": "Kagura"
+    "image": "",
+    "name": "Freya",
+    "type": "skin"
   },
   {
-    "Hero": "Luo Yi"
+    "image": "",
+    "name": "Gatotkaca",
+    "type": "skin"
   },
   {
-    "Hero": "Valir"
+    "image": "",
+    "name": "Gloo",
+    "type": "skin"
   },
   {
-    "Hero": "Gord"
+    "image": "",
+    "name": "Gord",
+    "type": "skin"
   },
   {
-    "Hero": "Harley"
+    "image": "",
+    "name": "Granger",
+    "type": "skin"
   },
   {
-    "Hero": "Bruno"
+    "image": "",
+    "name": "Grock",
+    "type": "skin"
   },
   {
-    "Hero": "Claude"
+    "image": "",
+    "name": "Guinevere",
+    "type": "skin"
   },
   {
-    "Hero": "Clint"
+    "image": "",
+    "name": "Gusion",
+    "type": "skin"
   },
   {
-    "Hero": "Granger"
+    "image": "",
+    "name": "Hanabi",
+    "type": "skin"
   },
   {
-    "Hero": "Hanabi"
+    "image": "",
+    "name": "Hanzo",
+    "type": "skin"
   },
   {
-    "Hero": "Lesley"
+    "image": "",
+    "name": "Harith",
+    "type": "skin"
   },
   {
-    "Hero": "Moskov"
+    "image": "",
+    "name": "Harley",
+    "type": "skin"
   },
   {
-    "Hero": "Wanwan"
+    "image": "",
+    "name": "Hayabusa",
+    "type": "skin"
   },
   {
-    "Hero": "Yi Sun Shin"
+    "image": "",
+    "name": "Helcurt",
+    "type": "skin"
   },
   {
-    "Hero": "Kimmy"
+    "image": "",
+    "name": "Hilda",
+    "type": "skin"
   },
   {
-    "Hero": "Popol and Kupa"
+    "image": "",
+    "name": "Hylos",
+    "type": "skin"
   },
   {
-    "Hero": "Angela"
+    "image": "",
+    "name": "Irithel",
+    "type": "skin"
   },
   {
-    "Hero": "Kaja"
+    "image": "",
+    "name": "Jawhead",
+    "type": "skin"
   },
   {
-    "Hero": "Nana"
+    "image": "",
+    "name": "Johnson",
+    "type": "skin"
   },
   {
-    "Hero": "Diggie"
+    "image": "",
+    "name": "Kadita",
+    "type": "skin"
   },
   {
-    "Hero": "Estes"
+    "image": "",
+    "name": "Kagura",
+    "type": "skin"
   },
   {
-    "Hero": "Akai"
+    "image": "",
+    "name": "Kaja",
+    "type": "skin"
   },
   {
-    "Hero": "Franco"
+    "image": "",
+    "name": "Karina",
+    "type": "skin"
   },
   {
-    "Hero": "Gatotkaca"
+    "image": "",
+    "name": "Karrie",
+    "type": "skin"
   },
   {
-    "Hero": "Uranus"
+    "image": "",
+    "name": "Khaleed",
+    "type": "skin"
   },
   {
-    "Hero": "Minotaur"
+    "image": "",
+    "name": "Khufra",
+    "type": "skin"
   },
   {
-    "Hero": "Khufra"
+    "image": "",
+    "name": "Kimmy",
+    "type": "skin"
   },
   {
-    "Hero": "Baxia"
+    "image": "",
+    "name": "Lancelot",
+    "type": "skin"
   },
   {
-    "Hero": "Belerick"
+    "image": "",
+    "name": "Lapu-Lapu",
+    "type": "skin"
   },
   {
-    "Hero": "Hylos"
+    "image": "",
+    "name": "Layla",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Leomord",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Lesley",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Ling",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Lolita",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Lunox",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Luo Yi",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Lylia",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Martis",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Masha",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Mathilda",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Minotaur",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Minsitthar",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Miya",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Moskov",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Nana",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Natalia",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Odette",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Paquito",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Pharsa",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Popol and Kupa",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Rafaela",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Roger",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Ruby",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Saber",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Selena",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Silvanna",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Sun",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Terizla",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Thamuz",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Tigreal",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Uranus",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Vale",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Valir",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Vexana",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Wanwan",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "X.Borg",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Yi Sun-Shin",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Yu Zhong",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Yve",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Zhask",
+    "type": "skin"
+  },
+  {
+    "image": "",
+    "name": "Zilong",
+    "type": "skin"
   }
 ]
